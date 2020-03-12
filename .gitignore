@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+.vscode
+.DS_Store
+cloud_sql_proxy.exe
+cloud_sql_proxy
